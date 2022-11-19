@@ -15,7 +15,7 @@ below.
 ### JSON Data
 
 JSON data files to represent your data (e.g.,
-[this file](https://bitbucket.org/brettz9/bahaiwritings/src/6b07fb41d11ed76570f7da03ffc9d11aa8ff0a5d/data/writings/peace.json?at=master&fileviewer=file-view-default))
+[this file](https://github.com/bahaidev/bahaiwritings/blob/main/data/writings/peace.json))
 expect 3 fields (per the simple
 [schema](https://github.com/bahaidev/textbrowser-data-schemas/blob/main/schemas/table-container.jsonschema)
 and its simple
@@ -38,7 +38,7 @@ and must, moreover, adhere to the
 [table format schema](https://github.com/bahaidev/textbrowser-data-schemas/blob/main/schemas/table.jsonschema).
 
 This simple document, besides including the text content, designates a more precise JSON schema to indicate precise column types (e.g.,
-[this one](https://bitbucket.org/brettz9/bahaiwritings/src/6b07fb41d11ed76570f7da03ffc9d11aa8ff0a5d/data/writings/schemas/Bible.jsonschema?at=master&fileviewer=file-view-default)).
+[this one](https://github.com/bahaidev/bahaiwritings/blob/main/data/writings/schemas/Bible.jsonschema)).
 
 This schema is expected to designate an array of arrays, with the items
 of the inner arrays being more flexible JSON schemas representing individual
@@ -68,7 +68,7 @@ field value.)
 ### JSON Metadata
 
 [Meta-data JSON](https://github.com/bahaidev/textbrowser/blob/main/general-schemas/metadata.jsonschema) (e.g.,
-[this one](https://bitbucket.org/brettz9/bahaiwritings/src/6b07fb41d11ed76570f7da03ffc9d11aa8ff0a5d/data/writings/metadata/Bible.metadata?at=master&fileviewer=file-view-default))
+[this one](https://github.com/bahaidev/bahaiwritings/blob/main/data/writings/metadata/Bible.metadata))
 is required so as for you to indicate for the app how the multilinear text
 is to be browsed (e.g., which fields can be used as sequential
 chapter/paragraph/verse numbers, how its columns should be translated, etc.).
