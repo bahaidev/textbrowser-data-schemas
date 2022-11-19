@@ -1,5 +1,6 @@
 {
   "name": "textbrowser-data-schemas",
+  "type": "module",
   "description": "Schemas describing the type of data documents consumed by textbrowser",
   "version": "0.1.0",
   "engines": {
