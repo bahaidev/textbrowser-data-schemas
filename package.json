@@ -1,0 +1,16 @@
+{
+  "name": "textbrowser-data-schemas",
+  "description": "Schemas describing the type of data documents consumed by textbrowser",
+  "version": "0.1.0",
+  "engines": {
+    "node": "*"
+  },
+  "keywords": [],
+  "repository": "https://github.com/bahaidev/textbrowser-data-schemas",
+  "homepage": "https://github.com/bahaidev/textbrowser-data-schemas",
+  "bugs": "https://github.com/bahaidev/textbrowser-data-schemas/issues",
+  "author": "Brett Zamir",
+  "contributors": [],
+  "license": "MIT",
+  "dependencies": {}
+}
