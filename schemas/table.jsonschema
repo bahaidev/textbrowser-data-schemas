@@ -16,6 +16,9 @@
       "type": "boolean",
       "enum": [false]
     },
+    "minItems": {
+      "type": "integer"
+    },
     "items": {
       "type": "object",
       "properties": {
